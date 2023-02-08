@@ -1,0 +1,16 @@
+id: I52F571E7
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 14:59:19.030212
+last_modified: 2023-02-08 14:59:19.030449
+source_metadata:
+  title: Brahmaśrīvyākaraṇa
+  language: bo
+bases:
+  '7431':
+    base_file: 7431.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
